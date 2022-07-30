@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.barakcohen.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-30T09:48:29" hostname="DESKTOP-EUHFQLD" time="6.181">
+  <properties/>
+  <testcase name="SanityTest()" classname="com.barakcohen.AppTest" time="6.181"/>
+  <system-out><![CDATA[Done future20
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

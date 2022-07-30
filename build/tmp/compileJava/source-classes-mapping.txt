@@ -1,0 +1,14 @@
+com/barakcohen/Downloader.java
+ com.barakcohen.Downloader
+com/barakcohen/resources/AddressesLoader.java
+ com.barakcohen.resources.AddressesLoader
+com/barakcohen/resources/EnDictionaryLoader.java
+ com.barakcohen.resources.EnDictionaryLoader
+com/barakcohen/resources/DataLoader.java
+ com.barakcohen.resources.DataLoader
+com/barakcohen/App.java
+ com.barakcohen.App
+com/barakcohen/compute/SiteCompute.java
+ com.barakcohen.compute.SiteCompute
+com/barakcohen/compute/CountingTask.java
+ com.barakcohen.compute.CountingTask
